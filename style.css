@@ -74,6 +74,14 @@ h1 span:nth-child(2){
   text-shadow: 4px 4px 1px black;
 }
 
+h2{
+  color: white;
+}
+h2 span{
+  background-color: #3492F0;
+  line-height: 1.7em;
+}
+
 .info{
   position: relative;
   top: 35%;
